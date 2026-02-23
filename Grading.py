@@ -1,3 +1,4 @@
+#Garding system
 marks= float(input("Enter total marks:  "))
 if(marks>=90):
     print("Outstanding")

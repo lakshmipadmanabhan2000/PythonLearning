@@ -1,3 +1,4 @@
+#print fibanocci series upto n
 n=int(input("Enter a number: "))
 a=0
 b=1

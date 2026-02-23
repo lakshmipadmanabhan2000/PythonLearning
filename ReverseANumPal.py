@@ -1,3 +1,4 @@
+#Reverse a number. Also check if the number is a palindrome or not
 def reverse(n):
     rev=0
     while(n!=0):
