@@ -1,3 +1,4 @@
+#Check if two strings are Anagrams
 def is_Anagram(a,b):
     s1= sorted(a.lower().replace(" ",""))
     s2=sorted(b.lower().replace(" ",""))
